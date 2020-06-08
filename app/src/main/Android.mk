@@ -48,7 +48,7 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     androidx.transition_transition \
     com.google.android.material_material
 
-LOCAL_PACKAGE_NAME := Backgrounds
+LOCAL_PACKAGE_NAME := PixelPaper
 
 LOCAL_PROGUARD_FLAG_FILES := ../../proguard-rules.pro
 
